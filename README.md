@@ -68,7 +68,7 @@ Hello ~ I'm Alexander<img src="https://github.com/TheDudeThatCode/TheDudeThatCod
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pxc7&count_private=true&show_icons=compact&theme=onedark)
 
 ## TROPY🏆
-![](https://github-profile-trophy.vercel.app/?username=Pxc7&row=2&column=3&layout=compact&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=alexander&row=2&column=3&layout=compact&theme=onedark)
 
 ## JUMLAH VIEWS👀
 <p align="center">
