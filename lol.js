@@ -24,17 +24,17 @@ const { mimeTypes } = require('file-type')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n'  // Jangan di ubah biar ga error
             + 'VERSION:3.0\n'  // Jangan di ubah biar ga error
-            + 'FN:RBOT\n'  // Ganti jadi namamu
-            + 'ORG: Pengembang RBOT;\n'  // Ganti jadi namamu/Botmu
+            + 'Alexander\n'  // Ganti jadi namamu
+            + 'ORG: Pengembang Alexander;\n'  // Ganti jadi namamu/Botmu
             + 'TEL;type=CELL;type=VOICE;waid=62814622392081:+62814622392081\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // jangan di ubah
 //Setingan\\
 apikey = 'RiuCok' 
 prefix = 'c' 
-owner = '62814622392081' 
-cr = 'LoL-Human Team'
-namo = 'RIU'
-ator = '+62814622392081'
+owner = '6281281783202' 
+cr = 'Alexander Yeremi'
+namo = 'King'
+ator = '+6281281783202'
 //Setingan\\
 //------LOAD-------\\
 const premium = JSON.parse(fs.readFileSync('./database/user/premium.json'))
@@ -125,7 +125,7 @@ async function starts() {
             }
             if (chat.action == 'remove') {
                 ini_user = lolteam.contacts[mem]
-                ini_out = `${ini_user.notify}, Sayonara👀👋`
+                ini_out = `${ini_user.notify}, Selamat Tinggal👀👋`
                 lolteam.sendMessage(chat.jid, ini_out, MessageType.text)
             }
         } catch (e) {
