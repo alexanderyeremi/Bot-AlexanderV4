@@ -24,8 +24,8 @@ const { mimeTypes } = require('file-type')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n'  // Jangan di ubah biar ga error
             + 'VERSION:3.0\n'  // Jangan di ubah biar ga error
-            + 'FN:Alexander\n'  // Ganti jadi namamu
-            + 'ORG: Pengembang Alexander;\n'  // Ganti jadi namamu/Botmu
+            + 'FN:RBOT\n'  // Ganti jadi namamu
+            + 'ORG: Pengembang RBOT;\n'  // Ganti jadi namamu/Botmu
             + 'TEL;type=CELL;type=VOICE;waid=6281281783202:+6281281783202\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // jangan di ubah
 //Setingan\\
@@ -33,7 +33,7 @@ apikey = 'RiuCok'
 prefix = 'c' 
 owner = '6281281783202' 
 cr = 'Alexander Yeremi'
-namo = 'King'
+namo = 'RIU'
 ator = '+6281281783202'
 //Setingan\\
 //------LOAD-------\\
