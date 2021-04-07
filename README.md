@@ -33,8 +33,8 @@ Hello ~ I'm Alexander<img src="https://github.com/TheDudeThatCode/TheDudeThatCod
 
 ## _Cloning_
 ```cmd
-> git clone https://github.com/Pxc7/LoL-Bot3
-> cd LoL-Bot3
+> git clone https://github.com/alexanderyeremi/Bot-AlexanderV4
+> cd Bot-AlexanderV4
 ```
 
 ## _Install_
