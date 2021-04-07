@@ -42,7 +42,7 @@ Hello ~ I'm Alexander<img src="https://github.com/TheDudeThatCode/TheDudeThatCod
 > npm i
 ```
 
-## _Run the LoL-Bot3_
+## _Run the Bot-AlexanderV4_
 ```cmd
 > npm start
 ```
@@ -65,7 +65,7 @@ Hello ~ I'm Alexander<img src="https://github.com/TheDudeThatCode/TheDudeThatCod
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pxc7&count_private=true&show_icons=true&include_all_commits=true)
 
 ## LANGUAGE📄
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pxc7&count_private=true&show_icons=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander&count_private=true&show_icons=compact&theme=onedark)
 
 ## TROPY🏆
 ![](https://github-profile-trophy.vercel.app/?username=alexander&row=2&column=3&layout=compact&theme=onedark)
