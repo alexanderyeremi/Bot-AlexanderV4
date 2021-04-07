@@ -72,7 +72,7 @@ Hello ~ I'm Alexander<img src="https://github.com/TheDudeThatCode/TheDudeThatCod
 
 ## JUMLAH VIEWS👀
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pxc7&label=VIEW&style=flat-square&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=Alexander&label=VIEW&style=flat-square&color=orange" />
 </p>
 
 End Udahan Buat Full Lolhuman
