@@ -24,9 +24,9 @@ const { mimeTypes } = require('file-type')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n'  // Jangan di ubah biar ga error
             + 'VERSION:3.0\n'  // Jangan di ubah biar ga error
-            + 'Alexander\n'  // Ganti jadi namamu
+            + 'FN:Alexander\n'  // Ganti jadi namamu
             + 'ORG: Pengembang Alexander;\n'  // Ganti jadi namamu/Botmu
-            + 'TEL;type=CELL;type=VOICE;waid=62814622392081:+62814622392081\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
+            + 'TEL;type=CELL;type=VOICE;waid=6281281783202:+6281281783202\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // jangan di ubah
 //Setingan\\
 apikey = 'RiuCok' 
