@@ -62,7 +62,7 @@ Hello ~ I'm Alexander<img src="https://github.com/TheDudeThatCode/TheDudeThatCod
 * [![Github Badge](https://img.shields.io/badge/-Rio-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Itz-Rio-Bruh)](https://github.com/Itz-Rio-Bruh)
 
 ## STATUS🎌
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Pxc7&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alexander&count_private=true&show_icons=true&include_all_commits=true)
 
 ## LANGUAGE📄
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander&count_private=true&show_icons=compact&theme=onedark)
