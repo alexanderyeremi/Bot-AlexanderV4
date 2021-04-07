@@ -831,7 +831,7 @@ async function starts() {
 		if (!isRegistered) return reply(ind.noregis())
                 lolteam.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: lol})
                 lolteam.sendMessage(from, 'Tuh kontak Mr.Alexander <•_•> ,Jangan Diubah Ya Kontaknya (*>*)',MessageType.text, { quoted: lol} )
-	        ini_buffer = await getBuffer("https://i.ibb.co/KK5hwfN/images.jpg")
+	        ini_buffer = await getBuffer("https://i.ibb.co/tqX1xmn/20210326-134340.jpg")
                 lolteam.sendMessage(from, ini_buffer, MessageType.image, {quoted: lol, caption: '*SUBSCRIBE:*\n*https://youtube.com/channel/UCM27GQToNx3YHkqwZxNjNog*'})
                  break
 				case 'addprem':
