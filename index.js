@@ -3,7 +3,7 @@ let path = require('path')
 let fs = require('fs')
 const CFonts = require('cfonts')
 
-CFonts.say('Alexander', {
+CFonts.say('LoL TeaM', {
     font: 'block',
     align: 'center',
     gradient: ['red', 'magenta']
